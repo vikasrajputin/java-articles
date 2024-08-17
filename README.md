@@ -13,6 +13,7 @@ Source Code Related to Java Related Articles
 
 # Modules, Thread and their Source Code Package Information:
 - Java Thread - Why do we've getter and setter method - https://github.com/vikasrajputin/java-articles/tree/main/core-java/src/main/java/in/vikasrajput/java/getterandsettermethods
+- Java Article - SOLID Principles in Java - https://vikasrajput.in/complete-guide-to-solid-principles-in-java
 
 # How to Run Examples:
 - Once you identify the correct package against the thread you will be able to find Java class ending with "Demo.java" name.
