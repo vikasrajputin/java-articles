@@ -7,5 +7,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>core-java</module>
+	<module>java-updates-v9-to-v22</module>
   </modules>
 </project>
