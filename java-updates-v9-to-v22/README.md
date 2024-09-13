@@ -4,15 +4,15 @@
 This repository contains code examples demonstrating the key feature updates introduced across Java versions 9 through 22. Each package contains Java files that showcase the functionality, usage, and improvements of features introduced in the corresponding version. Below is a detailed breakdown of the packages and the Java files in them.
 
 ## Table of Contents
-- [NullPointerExceptions (Java 14)](#src/main/java/org/example/npe)
-- [Pattern Matching (Java 16 & 17)](#src/main/java/org/example/patternmatching)
-- [Records (Java 14)](#src/main/java/org/example/records)
-- [Sealed Classes (Java 15 & 17)](#src/main/java/org/example/sealedclass)
-- [String Templates (Java 21)](#src/main/java/org/example/stringtemplate)
-- [Switch Expressions (Java 12 & 14)](#src/main/java/org/example/switchexpression)
-- [Unnamed Variables (Java 22)](#src/main/java/org/example/unnamedvariable)
-- [Var Keyword (Java 10)](#src/main/java/org/example/varkeyword)
-- [Virtual Threads (Java 19)](#src/main/java/org/example/virtualthread)
+- [NullPointerExceptions (Java 14)](src/main/java/org/example/npe)
+- [Pattern Matching (Java 16 & 17)](src/main/java/org/example/patternmatching)
+- [Records (Java 14)](src/main/java/org/example/records)
+- [Sealed Classes (Java 15 & 17)](src/main/java/org/example/sealedclass)
+- [String Templates (Java 21)](src/main/java/org/example/stringtemplate)
+- [Switch Expressions (Java 12 & 14)](src/main/java/org/example/switchexpression)
+- [Unnamed Variables (Java 22)](src/main/java/org/example/unnamedvariable)
+- [Var Keyword (Java 10)](src/main/java/org/example/varkeyword)
+- [Virtual Threads (Java 19)](src/main/java/org/example/virtualthread)
 
 ---
 
